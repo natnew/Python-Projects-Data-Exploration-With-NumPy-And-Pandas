@@ -8,4 +8,4 @@ Run the code.
 Resources: <br>
 
 
-[Jupyter notebook]()
+[Jupyter notebook](https://github.com/natnew/Python-Projects-Data-Exploration-With-NumPy-And-Pandas/blob/main/Data_Exploration.ipynb)
